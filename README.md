@@ -1,4 +1,4 @@
-# discord-ban
+# note
 
 - Paste the code directly to the bot main page.
 
