@@ -2,7 +2,7 @@
 
 - Paste the code directly to the bot main page.
 
-- Be careful, the code will run on all servers 
+- Be careful, the code will run on all servers.
 
 - Make sure your bot is authorized.
 
