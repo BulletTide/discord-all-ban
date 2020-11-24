@@ -1,4 +1,6 @@
-# note
+#  **NOTE**
+
+![check dusty](https://cdn.discordapp.com/attachments/773750792301314089/780822614246817822/emote.gif)
 
 - Paste the code directly to the bot main page.
 
